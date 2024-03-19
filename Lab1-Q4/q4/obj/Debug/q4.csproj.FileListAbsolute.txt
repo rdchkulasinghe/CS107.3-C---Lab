@@ -1,7 +1,0 @@
-C:\Users\hp\source\repos\q4\q4\bin\Debug\q4.exe.config
-C:\Users\hp\source\repos\q4\q4\bin\Debug\q4.exe
-C:\Users\hp\source\repos\q4\q4\bin\Debug\q4.pdb
-C:\Users\hp\source\repos\q4\q4\obj\Debug\q4.csproj.AssemblyReference.cache
-C:\Users\hp\source\repos\q4\q4\obj\Debug\q4.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\q4\q4\obj\Debug\q4.exe
-C:\Users\hp\source\repos\q4\q4\obj\Debug\q4.pdb
