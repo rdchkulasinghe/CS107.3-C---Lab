@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\bin\Debug\Lab1-Q7.exe.config
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\bin\Debug\Lab1-Q7.exe
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\bin\Debug\Lab1-Q7.pdb
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\obj\Debug\Lab1-Q7.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\obj\Debug\Lab1-Q7.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\obj\Debug\Lab1-Q7.exe
+C:\Users\hp\source\repos\Lab1-Q7\Lab1-Q7\obj\Debug\Lab1-Q7.pdb
