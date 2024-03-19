@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\q3\q3\bin\Debug\q3.exe.config
+C:\Users\hp\source\repos\q3\q3\bin\Debug\q3.exe
+C:\Users\hp\source\repos\q3\q3\bin\Debug\q3.pdb
+C:\Users\hp\source\repos\q3\q3\obj\Debug\q3.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\q3\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\q3\q3\obj\Debug\q3.exe
+C:\Users\hp\source\repos\q3\q3\obj\Debug\q3.pdb
