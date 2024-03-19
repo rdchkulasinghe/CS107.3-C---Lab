@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\bin\Debug\Lab2-Q5.exe.config
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\bin\Debug\Lab2-Q5.exe
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\bin\Debug\Lab2-Q5.pdb
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\obj\Debug\Lab2-Q5.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\obj\Debug\Lab2-Q5.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\obj\Debug\Lab2-Q5.exe
+C:\Users\hp\source\repos\Lab2\Lab2-Q5\Lab2-Q5\obj\Debug\Lab2-Q5.pdb
