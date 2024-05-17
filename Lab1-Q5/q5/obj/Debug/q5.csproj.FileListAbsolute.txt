@@ -1,7 +1,0 @@
-C:\Users\hp\source\repos\q5\q5\bin\Debug\q5.exe.config
-C:\Users\hp\source\repos\q5\q5\bin\Debug\q5.exe
-C:\Users\hp\source\repos\q5\q5\bin\Debug\q5.pdb
-C:\Users\hp\source\repos\q5\q5\obj\Debug\q5.csproj.AssemblyReference.cache
-C:\Users\hp\source\repos\q5\q5\obj\Debug\q5.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\q5\q5\obj\Debug\q5.exe
-C:\Users\hp\source\repos\q5\q5\obj\Debug\q5.pdb
